@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Bibhunandan100/Bibhunandan100/blob/main/image.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Bibhunandan Sahoo</h1>
 <h3 align="center">I'm studying Computer Science and Engineering at ITER, SOA University.</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
