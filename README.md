@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bibhunandansahoo44@gmail.com**
 
-- ⚡ Fun fact **Sometimes i like to do Comedy.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
