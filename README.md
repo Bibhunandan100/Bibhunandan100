@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Food delivery web design**
 
-- 🌱 I’m currently learning **B.Tech(CSE)**
+- 🌱 I completed my learning **B.Tech(CSE)**
 
 - 👯 I’m looking to collaborate on **Design a portfolio Website**
 
